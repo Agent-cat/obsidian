@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97e6ab1cc8b82b44",
+        "id": "1b3cba2255970326",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4696d3a30a1a63",
+            "id": "a392e9bf29316946",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c4696d3a30a1a63",
+  "active": "d14121b2c5b74f1b",
   "lastOpenFiles": [
     "Docker/2.Docker File/4.Secure user managment.md",
     "Docker/5.Docker Compose/2.backend container in img.md",
