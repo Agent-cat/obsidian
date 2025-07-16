@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "e6ada3968170ea9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e6ab1cc8b82b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4696d3a30a1a63",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbb5d3e6314edf0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b197aaf3b9faba01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d14121b2c5b74f1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee9f1b0b9e6451ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f955e91079f18082",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5026054382324
+  },
+  "right": {
+    "id": "3cad9aa9acc20fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef16fadceaf280f2",
+        "type": "tabs",
+        "dimension": 61.41176470588235,
+        "children": [
+          {
+            "id": "b04048cd0805a764",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/2.Basics/2.Arrays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2.Arrays"
+            }
+          },
+          {
+            "id": "e24d9e79d03ed130",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/2.Basics/2.Arrays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2.Arrays"
+            }
+          },
+          {
+            "id": "c68c709d36560c5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d14ecaa021bbdd83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a18a90a4eefa3c63",
+        "type": "tabs",
+        "dimension": 38.588235294117645,
+        "children": [
+          {
+            "id": "0cfa061caeaf4e6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2c4696d3a30a1a63",
+  "lastOpenFiles": [
+    "Docker/2.Docker File/4.Secure user managment.md",
+    "Docker/5.Docker Compose/2.backend container in img.md",
+    "Docker/5.Docker Compose/1.Docker-Compose.md",
+    "Docker/4.Docker Volumes/1.Volumes.md",
+    "Docker/3.Docker Networking/Pasted image 20250715150144.png",
+    "Docker/3.Docker Networking/2.Network.md",
+    "Docker/3.Docker Networking/1.Harkirath Networks and Volumes.md",
+    "Docker/2.Docker File/DockerFile (Frontend).md",
+    "Docker/2.Docker File/3.MiltiStage Builds.md",
+    "Docker/2.Docker File/2.Docekr ignore.md",
+    "Docker/2.Docker File/1.DockerFile (Backend).md",
+    "Docker/1.Docker Commands/4.Flags.md",
+    "Docker/1.Docker Commands/3.Images.md",
+    "Docker/1.Docker Commands/2.Containers.md",
+    "Docker/1.Docker Commands/1.Basic Commands.md",
+    "Docker.zip",
+    "Docker/4.Docker Volumes/1.Volumes.md.gz",
+    "Docker/1.Docker Commands/2.Containers.md.gz",
+    "Docker/1.Docker Commands/4.Flags.md.gz",
+    "Docker/1.Docker Commands/3.Images.md.gz",
+    "Docker/1.Docker Commands/1.Basic Commands.md.gz",
+    "Docker/5.Docker Compose/2.backend container in img.md.gz",
+    "Docker/5.Docker Compose/1.Docker-Compose.md.gz",
+    "Docker/3.Docker Networking/2.Network.md.gz",
+    "Docker/3.Docker Networking/Pasted image 20250715150144.png.gz",
+    "Docker/Flags.md",
+    "Docker/Docker Commands.md",
+    "Untitle.md",
+    "Welcome.md",
+    "Dc-CO-3.md",
+    "japanese.md",
+    "one.md",
+    "adobe xd.md",
+    "Pasted image 20250709013604.png",
+    "Pasted image 20250709013540.png",
+    "Pasted image 20250709011006.png",
+    "Pasted image 20250709010912.png",
+    "Pasted image 20250709005851.png",
+    "Pasted image 20250709004610.png",
+    "Rust/17.SmartPointers/4.Drop.md",
+    "Rust/17.SmartPointers/3.Deref *.md",
+    "Rust/2.Basics/1.Tupils.md",
+    "Rust/17.SmartPointers/image.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Rust/12.Lifetime/image-1.png",
+    "Rust/12.Lifetime/image.png"
+  ]
+}
